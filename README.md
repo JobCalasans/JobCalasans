@@ -2,8 +2,11 @@
 
 
 - 🔭 Hoje trabalho como Analista de dados
+- 🌱 Técnico Eletrotécnica 
 - 🌱 Graduado em Ciências da Computação
-- 📫 Contate-me no e-mail: jobson.pereira@fibrasil.com.br
+- 🌱 Pós Graduado em Ciências de dados
+- 🌱 Pós Graduado latu Senso em Gerenciamento de projetos
+- 📫 Contate-me no e-mail: jobson-br@outlook.com
 - 😄 Pronouns: Ele
 
 
