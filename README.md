@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como Analista de dados
 - 🌱 Técnico Eletrotécnica 
-- 🌱 Graduado em Ciências da Computação
+- 🌱 Bacharelado em Ciências da Computação
 - 🌱 Pós Graduado em Ciências de dados
 - 🌱 Pós Graduado latu Senso em Gerenciamento de projetos
 - 📫 Contate-me no e-mail: jobson-br@outlook.com
